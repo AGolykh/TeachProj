@@ -1,4 +1,4 @@
-public class Converter {
+public class Converter   {
     double rateUSD;
     double rateEUR;
     double rateJPY;
