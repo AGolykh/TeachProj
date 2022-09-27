@@ -42,7 +42,7 @@ public class Main {
         }
     }
 
-    public static void printMenu() {
+    public static void printMenu()   {
         System.out.println("Что вы хотите сделать? ");
         System.out.println("1 - Конвертировать валюту");
         System.out.println("2 - Получить совет");
